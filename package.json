@@ -36,14 +36,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/datalocale/dataviz-finances-gironde"
+    "url": "https://github.com/jacquesODCorsica/Finances/dataviz-finances-gironde"
   },
   "author": "dtc innovation",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/datalocale/dataviz-finances-gironde/issues"
+    "url": "https://github.com/jacquesODCorsica/Finances/dataviz-finances-gironde/issues"
   },
-  "homepage": "https://github.com/datalocale/dataviz-finances-gironde",
+  "homepage": "https://github.com/jacquesODCorsica/Finances/dataviz-finances-gironde",
   "browserify": {
     "transform": [
       [
